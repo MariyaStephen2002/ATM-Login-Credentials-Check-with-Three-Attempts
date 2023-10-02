@@ -1,5 +1,6 @@
 Certainly! The provided Python program is a basic console-based login system that allows a user to attempt logging in with a username and password combination. Let's break down how the program works:
 
+
 ### Program Logic:
 1. **Initialization:**
    - The correct username is set as `"MariyaStephen"`.
