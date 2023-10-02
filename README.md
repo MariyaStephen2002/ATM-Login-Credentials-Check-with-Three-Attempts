@@ -1,10 +1,9 @@
 Certainly! The provided Python program is a basic console-based login system that allows a user to attempt logging in with a username and password combination. Let's break down how the program works:
 
-
 ### Program Logic:
 1. **Initialization:**
    - The correct username is set as `"MariyaStephen"`.
-   - The correct password is set as `1010`.
+   - The correct password is set as `1011`.
    - `No_attempt` is set to `3`, representing the number of login attempts allowed.
 
 2. **Login Attempt Loop:**
